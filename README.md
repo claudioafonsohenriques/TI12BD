@@ -1,4 +1,4 @@
-# Agrilink
-Agrilink Conectando mercados
+# TI12BD (2025/26)
+Web page para blog da turma
 
-FAzendo da nossa agricultura a mais moderna de todas
+Jornal TI12BD
